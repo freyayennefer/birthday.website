@@ -11,11 +11,9 @@ A beautiful, interactive birthday website featuring animated hearts, blooming fl
 - **Modern Code**: Built with ES6+ classes and vanilla JavaScript (no dependencies)
 - **Personal Touch**: Customizable messages and Shakespeare quotes
 
-## Preview
 
-<img src="https://raw.githubusercontent.com/rkruk/bday.website/master/bday.png" alt="Birthday Website Preview">
 
-**Live Demo**: [View the website in action](https://rkruk.github.io/bday.website)
+
 
 ## Project Structure
 
@@ -34,32 +32,6 @@ bday.website/
 │   └── jquery.js      # jQuery library (legacy, not used in modern version)
 └── README.md          # This file
 ```
-
-## Getting Started
-
-### Quick Start
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/rkruk/bday.website.git
-   cd bday.website
-   ```
-
-2. **Open in browser**:
-   - Simply open `index.html` in your web browser
-   - Or use a local server for better experience:
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Node.js (if you have live-server installed)
-   npx live-server
-   ```
-
-3. **View the website**:
-   - Navigate to `http://localhost:8000` (if using server)
-   - Or directly open the `index.html` file
-
 ### Customization
 
 To personalize the birthday message:
@@ -181,9 +153,7 @@ Update the HTML in `index.html`:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
